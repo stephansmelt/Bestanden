@@ -1,0 +1,13 @@
+Volgnummer;Mutatiecode;Omschrijving
+1;0;Lopend
+2;1;Prolongatie onderdrukken
+3;2;In bewerking
+4;3;Opgeschort
+5;4;Gaat vervallen
+6;5;Vervallen
+10;9;Loopt elders
+12;6;In aanvraag
+13;7;Premievrij
+14;8;Aflopend
+15;10;Koopsompolis
+16;99;In prolongatie
